@@ -2,10 +2,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer+in+Progress;Machine+Learning+Developer;Deep+Learning+with+PyTorch;Building+Intelligent+Systems"/>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=jay51211&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Jay Kumbhar</h1>
 <h3 align="center">Aspiring AI / Machine Learning Engineer</h3>
 
