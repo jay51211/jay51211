@@ -16,7 +16,7 @@ Passionate about building intelligent systems using Machine Learning and Deep Le
 - 🎓 B.Sc Computer Science Graduate  
 - 🤖 Aspiring **AI / ML Engineer**
 - 🧠 Experienced with **Machine Learning & Deep Learning**
-- 🌱 Currently improving **Deep Learning and Model Deployment**
+- 💡 Currently improving **Deep Learning and Model Deployment**
 - 💡 Interested in **Computer Vision and AI applications**
 
 ---
