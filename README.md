@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Jay Kumbhar</h1>
-<h3 align="center">Aspiring AI / Machine Learning Engineer</h3>
+<h3 align="center">AI / Machine Learning Engineer</h3>
 
 <p align="center">
 Passionate about building intelligent systems using Machine Learning and Deep Learning
@@ -14,7 +14,7 @@ Passionate about building intelligent systems using Machine Learning and Deep Le
 # 🚀 About Me
 
 - 🎓 B.Sc Computer Science Graduate  
-- 🤖 Aspiring **AI / ML Engineer**
+- 🤖 **AI / ML Engineer**
 - 🧠 Experienced with **Machine Learning & Deep Learning**
 - 💡 Currently improving **Deep Learning and Model Deployment**
 - 💡 Interested in **Computer Vision and AI applications**
