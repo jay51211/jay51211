@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=4A9EFF&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+Python+Developer+%7C+ML+Engineer;Data+Scientist+%7C+Data+Engineer;Building+end-to-end+AI+%26+Data+Solutions;2+Live+Deployed+Streamlit+Apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=4A9EFF&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+Python+Developer+%7C+ML+Engineer;Data+Scientist+%7C+Data+Engineer;Building+end-to-end+AI+%26+Data+Solutions;3+Live+Deployed+Apps+%7C+Face+Recognition+%7C+RAG)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,10 +10,10 @@
 
 ## 🚀 About Me
 
-🎓 **B.Sc. Computer Science** — SGM College, Karad · **CGPA: 8.77**  
-🤖 **AI/ML Internship** completed at Qskill (Jan–Feb 2026)  
-📍 Karad, Maharashtra, India  
-📧 jaykumbhar518@gmail.com  
+🎓 **B.Sc. Computer Science** — SGM College, Karad · **CGPA: 8.77**
+🤖 **AI/ML Internship** completed at Qskill (Jan–Feb 2026)
+📍 Karad, Maharashtra, India
+📧 jaykumbhar518@gmail.com
 💼 [LinkedIn](https://linkedin.com/in/jaykumbhar5121)
 
 I am a fresher **actively seeking roles** in:
@@ -35,61 +35,57 @@ I don't just build notebooks — I deploy real, working applications that anyone
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
-### 🤖 Machine Learning
+### 🤖 Machine Learning & AI
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### 🧠 Deep Learning & AI
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Face Recognition](https://img.shields.io/badge/Face_Recognition-dlib-FF6B6B?style=for-the-badge)
 ![GenAI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG_Pipeline-0066CC?style=for-the-badge)
 
-### ⚙️ Tools & Deployment
+### ☁️ Backend & Deployment
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-## 🔥 Live Projects
+## 🔥 Projects
 
-> 🟢 = Live deployed app you can use right now
+> 🟢 = Live deployed app · 🤖 = AI/ML · 📊 = Data Analysis · 🎓 = EdTech
 
-| Project | Domain | Stack | Status |
-|---------|--------|-------|--------|
-| [🟢 Customer Churn Prediction](https://github.com/jay51211/Customer-Churn-Prediction) | Telecom | Python · Scikit-learn · SMOTE · Streamlit | [![Live](https://img.shields.io/badge/Live-App-brightgreen)](https://customer-churn-prediction-4ippd6emidve4v9dckebwh.streamlit.app/) |
-| [🟢 IPL Performance Predictor](https://github.com/jay51211/IPL-Predictions) | Sports Analytics | Python · RandomForest · Feature Engineering · Streamlit | [![Live](https://img.shields.io/badge/Live-App-brightgreen)](https://ipl-predictions-ytddudnshpqg3sa5sqwqcx.streamlit.app/) |
-| [AI Crop Disease Detection](https://github.com/jay51211/AI-Crop-Disease-Detection) | Agriculture · CV | Python · PyTorch · CNN | 🔬 Research |
-| [AI Healthcare Chatbot](https://github.com/jay51211/AI-Healthcare-Chatbot) | Healthcare · NLP | Python · RAG · GenAI | 🤖 AI |
-| [Superstore Sales Analysis](https://github.com/jay51211/superstore-sales-analysis) | Retail · EDA | Python · Pandas · Seaborn | 📊 Analytics |
-| [Employee Attrition Prediction](https://github.com/jay51211/Employee-Attrition-Prediction) | HR Analytics | Python · Scikit-learn | 📈 ML |
-| [SQL Data Analysis](https://github.com/jay51211/SQL-Data-Analysis) | Business Analytics | SQL · Business Queries | 🗄️ SQL |
+| Project | Domain | Stack | Link |
+|---------|--------|-------|------|
+| [🎓🟢 SnapClass — AI Attendance System](https://github.com/jay51211/SnapClass-AI-Powered-Attendance-System) | EdTech · Face Recognition | Python · dlib · face_recognition · Supabase · Streamlit · QR | [GitHub](https://github.com/jay51211/SnapClass-AI-Powered-Attendance-System) |
+| [🤖🟢 Customer Churn Prediction](https://github.com/jay51211/Customer-Churn-Prediction) | Telecom · ML | Python · Scikit-learn · SMOTE · Streamlit | [![Live](https://img.shields.io/badge/Live-App-brightgreen)](https://customer-churn-prediction-4ippd6emidve4v9dckebwh.streamlit.app/) |
+| [🏏🟢 IPL Performance Predictor](https://github.com/jay51211/IPL-Predictions) | Sports Analytics · ML | Python · RandomForest · Feature Engineering · Streamlit | [![Live](https://img.shields.io/badge/Live-App-brightgreen)](https://ipl-predictions-ytddudnshpqg3sa5sqwqcx.streamlit.app/) |
+| [🌿🤖 AI Crop Disease Detection](https://github.com/jay51211/AI-Crop-Disease-Detection) | Agriculture · CV | Python · PyTorch · CNN | [GitHub](https://github.com/jay51211/AI-Crop-Disease-Detection) |
+| [🏥🤖 AI Healthcare Chatbot](https://github.com/jay51211/AI-Healthcare-Chatbot) | Healthcare · NLP | Python · RAG · GenAI | [GitHub](https://github.com/jay51211/AI-Healthcare-Chatbot) |
+| [📊 Superstore Sales Analysis](https://github.com/jay51211/superstore-sales-analysis) | Retail · EDA | Python · Pandas · Seaborn | [GitHub](https://github.com/jay51211/superstore-sales-analysis) |
+| [📈🤖 Employee Attrition Prediction](https://github.com/jay51211/Employee-Attrition-Prediction) | HR Analytics | Python · Scikit-learn | [GitHub](https://github.com/jay51211/Employee-Attrition-Prediction) |
+| [🗄️ SQL Data Analysis](https://github.com/jay51211/SQL-Data-Analysis) | Business Analytics | SQL · Business Queries | [GitHub](https://github.com/jay51211/SQL-Data-Analysis) |
 
 ---
 
 ## 💡 Featured Project Highlights
 
+### 🎓 SnapClass — AI Powered Attendance System *(Newest)*
+- **Face recognition** attendance using dlib + 128-d face embeddings
+- **QR code auto-enrolment** — students scan to join, no manual entry
+- **Multi-role Streamlit app** — separate Teacher dashboard and Student portal
+- **Supabase PostgreSQL** cloud backend — real-time data storage and retrieval
+- **Impact:** Saves 10–15 min per class, eliminates proxy attendance fraud
+
 ### 🏆 Customer Churn Prediction — [Live App](https://customer-churn-prediction-4ippd6emidve4v9dckebwh.streamlit.app/)
-- Built end-to-end ML pipeline on telecom data with SMOTE class balancing
+- End-to-end ML pipeline with SMOTE class balancing and RandomForest
 - **Key finding:** Month-to-Month customers churn **3x more** than yearly contract customers
-- **Business recommendation:** Targeted retention offers for first 12-month cohort
-- Deployed as live Streamlit app — non-technical users get real-time predictions
+- Deployed live — non-technical users get real-time predictions
 
 ### 🏏 IPL Performance Predictor — [Live App](https://ipl-predictions-ytddudnshpqg3sa5sqwqcx.streamlit.app/)
 - 3 ML models: match winner, batsman runs, bowler wickets
-- **Feature engineering:** Rolling averages from 500,000+ ball-by-ball records
-- **Key finding:** Recent form features outperform career averages in prediction accuracy
+- Rolling form features from **500,000+** ball-by-ball records
 - Multi-page Streamlit app with dashboards, rankings, and live predictions
-
-### 🌿 AI Crop Disease Detection
-- CNN image classifier in PyTorch on PlantVillage dataset (50,000+ images)
-- Multi-class classification across 10+ disease types
-- Real-world impact: farmers can diagnose crop diseases from a photo
-
-### 🏥 AI Healthcare Chatbot
-- RAG-powered chatbot for patient healthcare queries
-- Document chunking → embedding retrieval → LLM generation pipeline
-- Reduces hallucination by grounding responses in medical documents
 
 ---
 
@@ -109,15 +105,15 @@ I don't just build notebooks — I deploy real, working applications that anyone
 
 ## 🎯 What I'm Looking For
 
-I am actively applying for **fresher / entry-level** roles in:
+Actively applying for **fresher / entry-level** roles across India (remote/hybrid/onsite):
 
-| Role | Key Skills I Bring |
-|------|--------------------|
-| **Data Analyst** | Python, SQL, EDA, business insights, deployed apps |
-| **Python Developer** | OOP, pipelines, Streamlit deployment, GenAI |
-| **Data Scientist** | ML, deep learning, RAG, end-to-end projects |
-| **ML Engineer** | Scikit-learn, PyTorch, model serving, production pipelines |
-| **Data Engineer** | Pandas pipelines, SQL, ETL workflows, feature engineering |
+| Role | Key Skills |
+|------|-----------|
+| **Data Analyst** | Python, SQL, EDA, business insights, 3 deployed apps |
+| **Python Developer** | OOP, Streamlit, Supabase, GenAI, face recognition |
+| **Data Scientist** | ML, CV, RAG, end-to-end projects across 7 domains |
+| **ML Engineer** | Scikit-learn, PyTorch, dlib, model serving, production systems |
+| **Data Engineer** | Pandas pipelines, SQL, Supabase cloud DB, ETL workflows |
 
 ---
 
@@ -135,7 +131,7 @@ I am actively applying for **fresher / entry-level** roles in:
 
 <div align="center">
 
-**⭐ Star my repos if you find them useful!**  
-**Open to internships, fresher roles, and collaborations across India (remote/hybrid/onsite)**
+**⭐ Star my repos if you find them useful!**
+**Open to internships, fresher roles, and collaborations**
 
 </div>
