@@ -9,7 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jaykumbhar5121-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaykumbhar5121)
 [![Gmail](https://img.shields.io/badge/Gmail-jaykumbhar518@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaykumbhar518@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-jay51211-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jay51211)
-[![Location](https://img.shields.io/badge/📍_Karad-Maharashtra,_India-FF6B35?style=for-the-badge)](https://github.com/jay51211)
 
 </div>
 
