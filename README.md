@@ -1,91 +1,188 @@
-# Hi there, I'm Jay Kumbhar 👋
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:185FA5,100:1D9E75&height=200&section=header&text=Jay%20Sandip%20Kumbhar&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20ML%20Engineer%20%7C%20Python%20Developer&descAlignY=58&descSize=18" width="100%"/>
+
+</div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=4A9EFF&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+Python+Developer+%7C+ML+Engineer;Data+Scientist+%7C+Data+Engineer;Building+end-to-end+AI+%26+Data+Solutions;3+Live+Deployed+Apps+%7C+Face+Recognition+%7C+RAG)](https://git.io/typing-svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jaykumbhar5121-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaykumbhar5121)
+[![Gmail](https://img.shields.io/badge/Gmail-jaykumbhar518@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaykumbhar518@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-jay51211-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jay51211)
+[![Location](https://img.shields.io/badge/📍_Karad-Maharashtra,_India-FF6B35?style=for-the-badge)](https://github.com/jay51211)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-🎓 **B.Sc. Computer Science** — SGM College, Karad · **CGPA: 8.77**
-🤖 **AI/ML Internship** completed at Qskill (Jan–Feb 2026)
-📍 Karad, Maharashtra, India
-📧 jaykumbhar518@gmail.com
-💼 [LinkedIn](https://linkedin.com/in/jaykumbhar5121)
+```python
+class JayKumbhar:
+    def __init__(self):
+        self.name        = "Jay Sandip Kumbhar"
+        self.role        = ["ML Engineer", "Data Scientist", "Python Developer"]
+        self.education   = "B.Sc. Computer Science — CGPA 9.00"
+        self.college     = "Sadguru Gadage Maharaj College, Karad (2023–2026)"
+        self.location    = "Karad, Maharashtra, India"
+        self.available   = True  # Open to work — Immediate Joiner
 
-I am a fresher **actively seeking roles** in:
-> **Data Analyst · Python Developer · Data Scientist · ML Engineer · Data Engineer**
+    def skills(self):
+        return {
+            "ML / DL"    : ["Scikit-learn", "PyTorch", "CNN", "Face Recognition", "SMOTE"],
+            "GenAI"      : ["RAG Pipeline", "LLM Integration", "Groq API", "Llama 3.3 70B"],
+            "Backend"    : ["Flask", "FastAPI", "REST API", "Supabase (PostgreSQL)"],
+            "Data"       : ["Pandas", "NumPy", "EDA", "Feature Engineering"],
+            "Deploy"     : ["Streamlit", "Pickle", "Git", "GitHub"],
+            "Languages"  : ["Python (Advanced)", "SQL (Advanced)"],
+        }
 
-I don't just build notebooks — I deploy real, working applications that anyone can use right now.
+    def currently_learning(self):
+        return ["FastAPI model deployment", "Docker", "MLOps", "Statistics depth"]
+
+    def goal(self):
+        return "Land my first ML Engineer / Data Scientist role 🚀"
+
+me = JayKumbhar()
+```
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎓 SnapClass — AI Attendance System</h3>
+      <div align="center">
+        <a href="https://github.com/jay51211/SnapClass" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" />
+        </a>
+      </div>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+        <img src="https://img.shields.io/badge/dlib-black?style=flat"/>
+      </p>
+      <p>Full-stack AI attendance system with face recognition pipeline, Supabase PostgreSQL cloud backend, QR-based auto-enrolment, and multi-role authentication. Eliminates proxy attendance fraud — saves teachers 10–15 minutes per class.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🏥 AI Healthcare Chatbot</h3>
+      <div align="center">
+        <a href="https://github.com/jay51211/AI-Healthcare-Chatbot" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" />
+        </a>
+      </div>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Groq-F55036?style=flat"/>
+        <img src="https://img.shields.io/badge/Llama_3.3_70B-blueviolet?style=flat"/>
+        <img src="https://img.shields.io/badge/REST_API-009688?style=flat"/>
+      </p>
+      <p>Conversational healthcare assistant built with Flask REST API and Groq's Llama 3.3 70B. Features full conversation memory, input validation, and a healthcare-tuned system prompt for empathetic, responsible responses.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📉 Customer Churn Predictor</h3>
+      <div align="center">
+        <a href="https://github.com/jay51211/Customer-Churn-Prediction" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" />
+        </a>
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+        </a>
+      </div>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SMOTE-4CAF50?style=flat"/>
+        <img src="https://img.shields.io/badge/RandomForest-228B22?style=flat"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+      </p>
+      <p>End-to-end ML pipeline — data cleaning → SMOTE → RandomForest → Pickle → live Streamlit app. Key finding: Month-to-Month customers churn 3× more. Business recommendation embedded in the app output.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🏏 IPL Performance Predictor</h3>
+      <div align="center">
+        <a href="https://github.com/jay51211/IPL-Performance-Predictor" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" />
+        </a>
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+        </a>
+      </div>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Feature_Engineering-185FA5?style=flat"/>
+        <img src="https://img.shields.io/badge/3_ML_Models-1D9E75?style=flat"/>
+        <img src="https://img.shields.io/badge/500K+_rows-orange?style=flat"/>
+      </p>
+      <p>3 independent ML models (match winner classification + batsman runs + bowler wickets regression) served from one multi-page Streamlit app. Feature engineered from 500K+ delivery records.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🌿 AI Crop Disease Detection</h3>
+      <div align="center">
+        <a href="https://github.com/jay51211/Crop-Disease-Detection" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" />
+        </a>
+      </div>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CNN-9C27B0?style=flat"/>
+        <img src="https://img.shields.io/badge/Transfer_Learning-FF9800?style=flat"/>
+        <img src="https://img.shields.io/badge/50K+_images-4CAF50?style=flat"/>
+      </p>
+      <p>Multi-class CNN on PlantVillage dataset (50K+ images) for automated crop disease diagnosis across 10+ disease types. Data augmentation pipeline for generalization. Transfer learning for faster convergence.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🛒 Superstore Sales EDA</h3>
+      <div align="center">
+        <a href="https://github.com/jay51211/Superstore-EDA" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" />
+        </a>
+      </div>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat"/>
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat"/>
+        <img src="https://img.shields.io/badge/10K+_orders-orange?style=flat"/>
+      </p>
+      <p>Deep EDA on 10K+ retail orders. Key insight: discounts above 30% produce negative profit. Business recommendation: cap discounts at 20% and audit Central region pricing strategy.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<div align="center">
 
-### 📊 Data Science & Analysis
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### ML / Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
-### 🤖 Machine Learning & AI
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Face Recognition](https://img.shields.io/badge/Face_Recognition-dlib-FF6B6B?style=for-the-badge)
-![GenAI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG_Pipeline-0066CC?style=for-the-badge)
-
-### ☁️ Backend & Deployment
+### Backend & Deployment
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
+### GenAI & LLMs
+![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge)
+![LLM](https://img.shields.io/badge/Llama_3.3_70B-blueviolet?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG_Pipeline-1D9E75?style=for-the-badge)
 
-## 🔥 Projects
-
-> 🟢 = Live deployed app · 🤖 = AI/ML · 📊 = Data Analysis · 🎓 = EdTech
-
-| Project | Domain | Stack | Link |
-|---------|--------|-------|------|
-| [🎓🟢 SnapClass — AI Attendance System](https://github.com/jay51211/SnapClass-AI-Powered-Attendance-System) | EdTech · Face Recognition | Python · dlib · face_recognition · Supabase · Streamlit · QR | [GitHub](https://github.com/jay51211/SnapClass-AI-Powered-Attendance-System) |
-| [🤖🟢 Customer Churn Prediction](https://github.com/jay51211/Customer-Churn-Prediction) | Telecom · ML | Python · Scikit-learn · SMOTE · Streamlit | [![Live](https://img.shields.io/badge/Live-App-brightgreen)](https://customer-churn-prediction-4ippd6emidve4v9dckebwh.streamlit.app/) |
-| [🏏🟢 IPL Performance Predictor](https://github.com/jay51211/IPL-Predictions) | Sports Analytics · ML | Python · RandomForest · Feature Engineering · Streamlit | [![Live](https://img.shields.io/badge/Live-App-brightgreen)](https://ipl-predictions-ytddudnshpqg3sa5sqwqcx.streamlit.app/) |
-| [🌿🤖 AI Crop Disease Detection](https://github.com/jay51211/AI-Crop-Disease-Detection) | Agriculture · CV | Python · PyTorch · CNN | [GitHub](https://github.com/jay51211/AI-Crop-Disease-Detection) |
-| [🏥🤖 AI Healthcare Chatbot](https://github.com/jay51211/AI-Healthcare-Chatbot) | Healthcare · NLP | Python · RAG · GenAI | [GitHub](https://github.com/jay51211/AI-Healthcare-Chatbot) |
-| [📊 Superstore Sales Analysis](https://github.com/jay51211/superstore-sales-analysis) | Retail · EDA | Python · Pandas · Seaborn | [GitHub](https://github.com/jay51211/superstore-sales-analysis) |
-| [📈🤖 Employee Attrition Prediction](https://github.com/jay51211/Employee-Attrition-Prediction) | HR Analytics | Python · Scikit-learn | [GitHub](https://github.com/jay51211/Employee-Attrition-Prediction) |
-| [🗄️ SQL Data Analysis](https://github.com/jay51211/SQL-Data-Analysis) | Business Analytics | SQL · Business Queries | [GitHub](https://github.com/jay51211/SQL-Data-Analysis) |
-
----
-
-## 💡 Featured Project Highlights
-
-### 🎓 SnapClass — AI Powered Attendance System *(Newest)*
-- **Face recognition** attendance using dlib + 128-d face embeddings
-- **QR code auto-enrolment** — students scan to join, no manual entry
-- **Multi-role Streamlit app** — separate Teacher dashboard and Student portal
-- **Supabase PostgreSQL** cloud backend — real-time data storage and retrieval
-- **Impact:** Saves 10–15 min per class, eliminates proxy attendance fraud
-
-### 🏆 Customer Churn Prediction — [Live App](https://customer-churn-prediction-4ippd6emidve4v9dckebwh.streamlit.app/)
-- End-to-end ML pipeline with SMOTE class balancing and RandomForest
-- **Key finding:** Month-to-Month customers churn **3x more** than yearly contract customers
-- Deployed live — non-technical users get real-time predictions
-
-### 🏏 IPL Performance Predictor — [Live App](https://ipl-predictions-ytddudnshpqg3sa5sqwqcx.streamlit.app/)
-- 3 ML models: match winner, batsman runs, bowler wickets
-- Rolling form features from **500,000+** ball-by-ball records
-- Multi-page Streamlit app with dashboards, rankings, and live predictions
+</div>
 
 ---
 
@@ -93,9 +190,12 @@ I don't just build notebooks — I deploy real, working applications that anyone
 
 <div align="center">
 
-![Jay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jay51211&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=jay51211&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay51211&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jay51211&layout=compact&theme=tokyonight&hide_border=true)
+</div>
+
+<div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jay51211&theme=tokyonight&hide_border=true)
 
@@ -103,35 +203,53 @@ I don't just build notebooks — I deploy real, working applications that anyone
 
 ---
 
-## 🎯 What I'm Looking For
+## 🏆 Certifications
 
-Actively applying for **fresher / entry-level** roles across India (remote/hybrid/onsite):
-
-| Role | Key Skills |
-|------|-----------|
-| **Data Analyst** | Python, SQL, EDA, business insights, 3 deployed apps |
-| **Python Developer** | OOP, Streamlit, Supabase, GenAI, face recognition |
-| **Data Scientist** | ML, CV, RAG, end-to-end projects across 7 domains |
-| **ML Engineer** | Scikit-learn, PyTorch, dlib, model serving, production systems |
-| **Data Engineer** | Pandas pipelines, SQL, Supabase cloud DB, ETL workflows |
+| Certificate | Issuer | Year |
+|---|---|---|
+| AI / ML Internship Certificate | Qskill / Squarcell Resource India Pvt. Ltd (ISO 9001:2015) | 2026 |
+| HackerRank Python (Basic + Intermediate) | HackerRank | 2026 |
+| HackerRank SQL (Basic) | HackerRank | 2026 |
+| Kaggle Python + Pandas + ML | Kaggle (Google) | 2026 |
 
 ---
 
-## 📫 Connect With Me
+## 💼 Experience
 
-<div align="center">
+**Data / AI Intern** — Qskill · Squarcell Resource India Pvt. Ltd *(Jan 2026 – Feb 2026)*
+- Built data processing pipelines in Python — cleaning, transformation, feature engineering, and model evaluation
+- Certificate ID: qsai2026011097 · ISO 9001:2015 certified organisation
 
-[![Email](https://img.shields.io/badge/Email-jaykumbhar518@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaykumbhar518@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jaykumbhar5121-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaykumbhar5121)
-[![GitHub](https://img.shields.io/badge/GitHub-jay51211-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jay51211)
+---
 
-</div>
+## 🎓 Education
+
+| Degree | Institution | Score | Year |
+|---|---|---|---|
+| B.Sc. Computer Science | Sadguru Gadage Maharaj College, Karad | **CGPA 9.00** | 2023–2026 |
+| 12th Science (HSC) | J. Navodaya Vidyalaya, Satara | **84.4%** | 2023 |
+
+---
+
+## 📈 Currently Working On
+
+- 🔧 Wrapping ML models as **FastAPI REST APIs** for production deployment
+- 📚 Deepening **ML theory** — backpropagation, gradient descent, loss functions
+- 🐳 Learning **Docker** for containerized ML deployment
+- 📊 **Statistics for Data Science** — hypothesis testing, A/B testing, distributions
 
 ---
 
 <div align="center">
 
-**⭐ Star my repos if you find them useful!**
-**Open to internships, fresher roles, and collaborations**
+### 💬 Let's Connect
+
+*I am actively looking for ML Engineer / Data Scientist / Python Developer roles.*
+*Immediate joiner. Open to remote and relocation.*
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaykumbhar5121)
+[![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaykumbhar518@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:185FA5&height=100&section=footer" width="100%"/>
 
 </div>
