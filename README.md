@@ -184,9 +184,6 @@ I am currently deepening my skills in FastAPI model deployment, Docker, and MLOp
 | Certificate | Issuer | Year |
 |---|---|---|
 | AI / ML Internship Certificate | Qskill / Squarcell Resource India Pvt. Ltd (ISO 9001:2015) | 2026 |
-| HackerRank Python (Basic + Intermediate) | HackerRank | 2026 |
-| HackerRank SQL (Basic) | HackerRank | 2026 |
-| Kaggle Python + Pandas + ML | Kaggle (Google) | 2026 |
 
 ---
 
