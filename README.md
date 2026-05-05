@@ -17,34 +17,11 @@
 
 ## 👨‍💻 About Me
 
-```python
-class JayKumbhar:
-    def __init__(self):
-        self.name        = "Jay Sandip Kumbhar"
-        self.role        = ["ML Engineer", "Data Scientist", "Python Developer"]
-        self.education   = "B.Sc. Computer Science — CGPA 9.00"
-        self.college     = "Sadguru Gadage Maharaj College, Karad (2023–2026)"
-        self.location    = "Karad, Maharashtra, India"
-        self.available   = True  # Open to work — Immediate Joiner
+I am a Machine Learning Engineer and Python Developer from Satara, Maharashtra, with a B.Sc. in Computer Science (CGPA 9.00). I build end-to-end AI systems — from data pipelines and ML models to deployed REST APIs and production-ready web applications.
+My work spans computer vision, natural language processing, generative AI, and classical machine learning — all backed by real projects with live deployments. I recently built an AI healthcare chatbot using Flask and Llama 3.3 70B, a face recognition attendance system with a cloud backend, and three live Streamlit ML applications.
+I am currently deepening my skills in FastAPI model deployment, Docker, and MLOps — transitioning from building models to shipping them reliably.
 
-    def skills(self):
-        return {
-            "ML / DL"    : ["Scikit-learn", "PyTorch", "CNN", "Face Recognition", "SMOTE"],
-            "GenAI"      : ["RAG Pipeline", "LLM Integration", "Groq API", "Llama 3.3 70B"],
-            "Backend"    : ["Flask", "FastAPI", "REST API", "Supabase (PostgreSQL)"],
-            "Data"       : ["Pandas", "NumPy", "EDA", "Feature Engineering"],
-            "Deploy"     : ["Streamlit", "Pickle", "Git", "GitHub"],
-            "Languages"  : ["Python (Advanced)", "SQL (Advanced)"],
-        }
-
-    def currently_learning(self):
-        return ["FastAPI model deployment", "Docker", "MLOps", "Statistics depth"]
-
-    def goal(self):
-        return "Land my first ML Engineer / Data Scientist role 🚀"
-
-me = JayKumbhar()
-```
+🟢 Open to work — Immediate Joiner · ML Engineer · Data Scientist · Python Developer
 
 ---
 
