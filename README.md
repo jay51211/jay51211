@@ -17,13 +17,13 @@
 
 ## 👨‍💻 About Me
 
-I'm Jay Kumbhar, an entry-level **Data Analyst and aspiring developer** from Wai, Maharashtra. I recently completed my B.Sc. in Computer Science (CGPA 8.99) and I'm building the kind of end-to-end analytics work I want to do full-time — clean data, useful models, and dashboards non-technical people actually enjoy using.
+I'm Jay Kumbhar, an entry-level **Data Analyst and aspiring developer** from Wai, Maharashtra. I recently completed my B.Sc. in Computer Science (CGPA 9.00) and I'm building the kind of end-to-end analytics work I want to do full time clean data, useful models, and dashboards non technical people actually enjoy using.
 
-I have hands-on expertise in **Python, SQL, Power BI and DAX**. I love the whole loop — cleaning messy data, running EDA, shipping a model, and then translating the results into plain-English recommendations a business team can act on.
+I have hands-on expertise in **Python, SQL, Power BI and DAX**. I love the whole loop cleaning messy data, running EDA, shipping a model, and then translating the results into plain-English recommendations a business team can act on.
 
 Outside of work, I'm sharpening my ML fundamentals through Apna College's Prime AI/ML program and Oracle's Agentic AI certification.
 
-🟢 Available for full-time opportunities — Data Analyst · Business Intelligence · Analytics · Immediate Joiner · Open to relocation
+🟢 Available for full time opportunities  Data Analyst · Business Intelligence · Analytics · Immediate Joiner · Open to relocation
 
 📄 [Download Resume](https://myportfolio51.lovable.app/__l5e/assets-v1/369ccd3f-189e-4ffd-8955-8fcd905bf09b/Kumbhar_Jay_Resume.pdf) · 🌐 [View Full Portfolio](https://myportfolio51.lovable.app/)
 
